@@ -1,6 +1,6 @@
 
 # GOOGLE GEMINI CLONE
-
+https://gemini-clone-by-sanjai.netlify.app/
 ## Overview
 This repository contains the codebase for our Google Gemini Clone project. Our goal is to offer a seamless search experience akin to Google Gemini, incorporating advanced search algorithms and user-friendly design.
 
